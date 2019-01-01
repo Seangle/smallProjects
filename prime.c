@@ -5,8 +5,10 @@ Current TODOs:
 -write to file
 */
 
-/*standard outpu*/
+/*standard output*/
 #include <stdio.h>
+/*string to int conversion*/
+#include <stdlib.h>
 /*Timing*/
 #include <time.h>
 /*Check command line flags*/
