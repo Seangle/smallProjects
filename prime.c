@@ -18,8 +18,6 @@ Current TODOs:
 
 int bruteforceInt(long int checkNumber);
 int fastbruteforceInt(long int checkNumber);
-int formulaInt(int checkNumber);
-
 
 int main(int argc, char **argv){
 	
@@ -122,9 +120,5 @@ int fastbruteforceInt(long int checkNumber){
 	if(prime == 1 && checkNumber != 1){
 		printf("%ld\n", checkNumber);
 	}
-	return 0;
-}
-
-int formulaInt(int checkNumber){
 	return 0;
 }
