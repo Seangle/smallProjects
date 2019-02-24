@@ -11,3 +11,4 @@ C programming files can be compiled with the included makefile.
 
 **Python 2 & 3 programming language:**
 - quadraticPY2.py - Python 2 - A Simple quadratic root calculator
+- capitalize.py - Python 3 - A simple capitalization script
