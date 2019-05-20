@@ -9,4 +9,4 @@ permute:
 bubblesort:
 	gcc -Wall -ansi -pedantic bubblesort.c -o bubblesort
 clean:
-	rm prime fibonacci permute
+	rm prime fibonacci permute bubblesort
